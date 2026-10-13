@@ -1,0 +1,7 @@
+{
+  "name": "daily-challenge",
+  "version": "0.1.0",
+  "author": { "name": "jjy714" },
+  "description": "One small Claude Code exercise a day, with a streak, a total and 365 challenges that never repeat.",
+  "types": "./types/index.d.ts"
+}
