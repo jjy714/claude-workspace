@@ -1,5 +1,8 @@
 {
   "name": "clean-view-mods",
   "owner": { "name": "jjy714" },
-  "plugins": [{ "name": "clean-view", "source": "./" }]
+  "plugins": [
+    { "name": "clean-view", "source": "./" },
+    { "name": "daily-challenge", "source": "./daily-challenge" }
+  ]
 }

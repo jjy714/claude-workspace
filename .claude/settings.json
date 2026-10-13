@@ -1,0 +1,11 @@
+{
+  "extraKnownMarketplaces": {
+    "clean-view-mods": {
+      "source": { "source": "github", "repo": "jjy714/claude-workspace" }
+    }
+  },
+  "enabledPlugins": {
+    "clean-view@clean-view-mods": true,
+    "daily-challenge@clean-view-mods": true
+  }
+}
