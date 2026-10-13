@@ -1,0 +1,6 @@
+{
+  "name": "road-trip",
+  "version": "0.1.0",
+  "description": "A tiny top-down driving game in a pane above the prompt; Claude's finished steps drop bonus coins.",
+  "types": "./types/index.d.ts"
+}
