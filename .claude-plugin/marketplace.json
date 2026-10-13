@@ -1,5 +1,17 @@
 {
   "name": "clean-view-mods",
-  "owner": { "name": "jjy714" },
-  "plugins": [{ "name": "clean-view", "source": "./" }]
+  "owner": {
+    "name": "jjy714"
+  },
+  "plugins": [
+    {
+      "name": "clean-view",
+      "source": "./"
+    },
+    {
+      "name": "daily-challenge",
+      "source": "./daily-challenge"
+    }
+  ],
+  "description": "Claude Code mods by jjy714: Clean View with Agent Dock, and Daily Challenge."
 }
